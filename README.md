@@ -27,9 +27,6 @@ Desenvolver uma API em C# para gerenciar o cadastro de pacientes e planos de sa�
 
 Optamos pelo uso do padrão JSON (JavaScript Object Notation) no desenvolvimento de APIs devido aos inúmeros benefícios que ele proporciona, tanto em termos técnicos quanto de usabilidade. Um dos principais motivos é sua ampla compatibilidade. JSON é suportado por praticamente todas as linguagens de programação modernas, o que facilita a integração das APIs com diferentes sistemas e plataformas. Isso significa que independentemente do ambiente em que estejam trabalhando, podemos consumir e produzir dados de forma consistente em outras APIs.
 
-Além disso, o JSON se destaca por sua leveza em comparação a outros formatos, como o XML. Sua estrutura mais simples permite que os dados sejam transmitidos mais rapidamente pela rede, o que contribui diretamente para o melhor desempenho das APIs. Esse fator é especialmente importante em cenários onde há limitações de banda, pois o menor volume de dados trafegando reduz a latência e melhora a experiência do usuário final.
-
-Outro ponto relevante é a flexibilidade oferecida pelo JSON. Por ser um formato adaptável, ele permite que campos e propriedades sejam adicionados ou removidos sem que isso comprometa a compatibilidade com versões anteriores de uma API. Essa característica é fundamental para garantir a evolução contínua dos serviços, permitindo ajustes e melhorias de forma ágil, sem causar interrupções ou falhas na comunicação entre diferentes versões da API. Dessa maneira, o uso de JSON contribui para um desenvolvimento mais eficiente e uma manutenção mais simples das soluções de software.
 
 ---
 
